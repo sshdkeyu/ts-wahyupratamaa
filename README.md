@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Wahyu Pratama
 
-Software Engineer Lead @satutitik.engineer · Ex-MSIB Mandiri · Ex-DBS Foundation · Ex-SIB 7 · Ex-Inbound  
-AI & ML Builder · Automation Engineer (n8n) · Full-Stack & Mobile Engineer  
+Software Engineer Lead @satutitik.engineer 6 Worker· Ex-MSIB Mandiri · Ex-DBS Foundation · Ex-SIB 7 · Ex-Inbound  
 
 📍 Suhat, Malang
 
