@@ -38,15 +38,3 @@ Software Engineer Lead @satutitik.engineer with experience building reliable, sc
     <img src="https://img.shields.io/badge/INSTAGRAM-@alvprma.2cn-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ts-wahyupratamaa&show_icons=true&count_private=true&hide_border=true" alt="Github Commit" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-wahyupratamaa&layout=compact&hide_border=true" alt="Github Langs" />
-</p>
