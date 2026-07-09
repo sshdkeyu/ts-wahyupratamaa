@@ -50,13 +50,3 @@ Software Engineer Lead @satutitik.engineer with experience building reliable, sc
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ts-wahyupratamaa&layout=compact&hide_border=true" alt="Github Langs" />
 </p>
-
----
-
-## 🕹️ Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/refs/heads/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/refs/heads/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ts-wahyupratamaa/seniorsoftwareengineer/output/pacman-contribution-graph.svg">
-</picture>
